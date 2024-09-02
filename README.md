@@ -19,7 +19,7 @@ This project features a comprehensive PowerBI dashboard designed specifically fo
 ## Installation and Setup
 1. **Prerequisites:** PowerBI Desktop
 2. **Installation Steps:**
-   - Download the PowerBI file from [this link](#).
+   - Download the PowerBI file from [[Here](https://github.com/Shubhamhalkanche/Shubham-s-Portfolio/blob/main/Revenue%20Insights%20in%20Hospitality%20Domain.pbix)].
    - Open the file in PowerBI Desktop.
 3. **Configuration:** Set up data connections and adjust settings as needed.
 
