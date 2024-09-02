@@ -26,6 +26,9 @@ This project features a comprehensive PowerBI dashboard designed specifically fo
 ## Dashboard Snapshot
 ![Dashboard Snapshot](https://github.com/user-attachments/assets/cc91c4ab-40e7-4197-820f-b8dfab1bcd05)
 
+## DAX Measures 
+   - For your reference, the measures file have been attached [[Dax Measures](https://github.com/Shubhamhalkanche/Shubham-s-Portfolio/blob/main/Measures.pdf)]
+
 ## Usage
 - **Navigating the Dashboard:** Use the tabs and filters to explore different sections of the data.
 - **Generating Reports:** Click on the 'Export' button to generate and save reports.
