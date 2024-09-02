@@ -1,4 +1,4 @@
-# PowerBI Dashboard for Hospitality Domain
+# Revenue Insights for Hospitality Domain
 
 ## Project Description
 This project features a comprehensive PowerBI dashboard designed specifically for the hospitality industry. The dashboard provides actionable insights into various aspects of hotel operations, including occupancy rates, revenue trends, contributions from different platforms and different room class, ratings and etc.
