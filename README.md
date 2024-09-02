@@ -3,10 +3,10 @@
 ## Project Description
 This project features a comprehensive PowerBI dashboard designed specifically for the hospitality industry. The dashboard provides actionable insights into various aspects of hotel operations, including occupancy rates, revenue trends, contributions from different platforms and different room class, ratings and etc.
 ## Features
-- Real-World Data Visualization of over 1.3 Million Records
+- Real-World Data Visualization of over 1.3Lakh Records
 - Interactive Filters
 - Performance Metrics
-- Guest Insights
+- Hotel Rooms Insights
 - Revenue Tracking
 
 ## Data Sources
